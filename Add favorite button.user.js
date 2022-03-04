@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         הוספת כפתור מועדפים
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @match        https://tchumim.com/*
 // @match        https://mitmachim.top/*
 // @match        https://f2.freeivr.co.il/*
