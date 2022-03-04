@@ -8,6 +8,9 @@
 // @match        https://forum-eer.ovh/*
 // @match        https://miktzav.com/*
 // @match        https://xn--5dbqmbuy.com/*
+// @match        https://forum.safera.co.il/*
+// @match        https://forum.techno-tech.ovh/*
+// @match        http://forum.netfree.link/*
 // @icon https://mitmachim.top/assets/uploads/profile/566-profileavatar-1574614377858.jpeg
 // ==/UserScript==
 if(app.user.uid != 0){
