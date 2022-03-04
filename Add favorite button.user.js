@@ -4,6 +4,7 @@
 // @version      0.1
 // @match        https://tchumim.com/*
 // @match        https://mitmachim.top/*
+// @match        https://f2.freeivr.co.il/*
 // @icon https://mitmachim.top/assets/uploads/profile/566-profileavatar-1574614377858.jpeg
 // ==/UserScript==
 if(app.user.uid != 0){
