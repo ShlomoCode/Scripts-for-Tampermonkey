@@ -5,6 +5,7 @@
 // @match        https://tchumim.com/*
 // @match        https://mitmachim.top/*
 // @match        https://f2.freeivr.co.il/*
+// @match        https://forum-eer.ovh/*
 // @icon https://mitmachim.top/assets/uploads/profile/566-profileavatar-1574614377858.jpeg
 // ==/UserScript==
 if(app.user.uid != 0){
